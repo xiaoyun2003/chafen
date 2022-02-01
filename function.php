@@ -10,7 +10,7 @@ function GetCookies(){
 $url="http://dmj006.51baxue.com:19001/edei/loginAction.action";
 
 //login pack
-$data="authcode_val=&fp=4086852310&wos=Android&user.loginType=0&logType=T&user.username=13403078661&user.mobile=&user.password=000000";
+$data="authcode_val=&fp=4086852310&wos=Android&user.loginType=0&logType=T&user.username=xxxxxxxxx&user.mobile=&user.password=x";
 
 
     if(GetConfig("ua")=="pc"){
